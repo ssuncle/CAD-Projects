@@ -7,9 +7,9 @@ This repo is where I store all of the CAD projects I've worked on. Most of these
 You'll find things like:
 
 - Robotics parts and mechanisms
-- Robots for VEX Robotics
+- Custom-designed components
+- Assemblies and prototypes
 - 3D printable models
-- CAD practice projects
 
 ## Why I Made This Repository
 
